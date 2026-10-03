@@ -1,0 +1,7 @@
+result*
+.direnv/
+node_modules/
+dist/
+.env*
+*.key
+*.sqlite*
